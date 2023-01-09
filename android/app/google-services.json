@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911083186013",
+    "project_id": "yangi-103f2",
+    "storage_bucket": "yangi-103f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911083186013:android:0af3e51c7719b0cd8f2ab4",
+        "android_client_info": {
+          "package_name": "com.example.yangi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911083186013-crqo0ek39cnrup7fk0k5mcgdk6a757u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0uK7pQMPAHtKaR3jWg92hhCs6q8k4aG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911083186013-crqo0ek39cnrup7fk0k5mcgdk6a757u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+name: yangi
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  fluttertoast: ^8.1.2
+  logger: ^1.1.0
+  platform_device_id: ^1.0.1
+  url_launcher: ^6.1.7
+  easy_localization: ^3.0.1
+  shared_preferences: ^2.0.15
+  get_storage: ^2.0.3
+  http: ^0.13.5
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_slidable: ^1.2.0
+  firebase_auth: ^4.2.1
+  firebase_core: ^2.4.0
+  firebase_database: ^10.0.8
+  image_picker: ^0.8.6
+  firebase_storage: ^11.0.10
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/translations/
+    - assets/images/
+  #   - images/a_dot_ham.jpeg
+
